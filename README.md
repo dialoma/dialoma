@@ -7,7 +7,7 @@ Hi there! I'm Diego, a passionate **Software Development Student** currently div
 ## 🌟 About Me
 
 - 🎓 Software Development student eager to build scalable and user-friendly applications.  
-- 🌐 Focused on **frontend and backend development** with technologies like **HTML, CSS, JavaScript, and SQL**.  
+- 🌐 Focused on **frontend and backend development** with technologies like **HTML, CSS, JavaScript, PHP and SQL**.  
 - 📚 Constantly learning and exploring new tools and frameworks.  
 - 🛠 Interested in creating practical and innovative solutions to everyday challenges.
 
