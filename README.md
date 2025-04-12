@@ -48,8 +48,8 @@ Here are some tools and technologies I am currently working with:
 
 ## Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dialoma/)  
-- 🌐 [Portfolio Website] *(coming soon)*  
+- [LinkedIn](https://www.linkedin.com/in/dialoma/)  
+- [Portfolio Website] *(coming soon)*  
 
 Feel free to explore my repositories and reach out if you have any suggestions, feedback, or collaboration ideas!  
 
