@@ -57,13 +57,13 @@ Thanks for stopping by!
 
 
 ## 🇪🇸 Versión en Español
-## ✨ Bienvenido a Mi Portafolio en GitHub
+## Bienvenido a Mi Portafolio en GitHub
 
 Hola, soy Diego, estudiante de Desarrollo de Software **aprendiendo para construir un futuro en tecnología**. Actualmente estoy explorando a fondo el mundo del Desarrollo Web. Este espacio sirve como una vitrina para mostrar mis proyectos, mi proceso de aprendizaje y mi crecimiento como desarrollador.
 
 ---
 
-## 🧑‍💻 Sobre Mí
+## Sobre Mí
 
 - Estudiante de Desarrollo de Software con ganas de crear aplicaciones escalables y fáciles de usar.  
 - Enfocado en el desarrollo **frontend y backend** con tecnologías como **HTML, CSS, JavaScript, PHP y SQL**.  
@@ -72,7 +72,7 @@ Hola, soy Diego, estudiante de Desarrollo de Software **aprendiendo para constru
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 **Desarrollo Web:**
 - HTML, CSS, JavaScript
@@ -87,14 +87,14 @@ Hola, soy Diego, estudiante de Desarrollo de Software **aprendiendo para constru
 
 ---
 
-## 🚧 Proyectos Actuales
+## Proyectos Actuales
 
 **Sitio Web de Portafolio Personal (En Proceso)**  
 Un sitio web responsivo para mostrar mis habilidades y proyectos.
 
 ---
 
-## 📚 ¿Qué Sigue?
+## ¿Qué Sigue?
 
 - Profundizar y reforzar mis conocimientos en HTML, CSS y JavaScript.  
 - Estudiar y aprender Java para ampliar mis habilidades en desarrollo backend.  
@@ -103,7 +103,7 @@ Un sitio web responsivo para mostrar mis habilidades y proyectos.
 
 ---
 
-## 🤝 ¡Conectemos!
+## ¡Conectemos!
 
 - [LinkedIn](https://www.linkedin.com/in/dialoma/) 
 - [Sitio Web del Portafolio] (próximamente)
