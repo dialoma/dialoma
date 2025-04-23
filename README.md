@@ -55,6 +55,8 @@ Feel free to explore my repositories and reach out if you have any suggestions, 
 
 Thanks for stopping by! 
 
+
+## 🇪🇸 Versión en Español
 ## ✨ Bienvenido a Mi Portafolio en GitHub
 
 Hola, soy Diego, estudiante de Desarrollo de Software **aprendiendo para construir un futuro en tecnología**. Actualmente estoy explorando a fondo el mundo del Desarrollo Web. Este espacio sirve como una vitrina para mostrar mis proyectos, mi proceso de aprendizaje y mi crecimiento como desarrollador.
